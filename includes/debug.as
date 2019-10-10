@@ -1,0 +1,3 @@
+
+Crew.debug = true;
+

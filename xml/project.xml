@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pl>
+	<c id="finalprojects" display="FINAL PROJECTS"/>
+	<c id="schoolmodules" display="SCHOOL MODULES"/>
+	<c id="schoolrelated" display="SCHOOL RELATED"/>
+</pl>
+
+<p id="array" display="ARRAY" category="schoolrelated" img="img/ps/array.jpg" url="http://www.scene.org/file.php?file=/parties/2002/thegathering02/altdemo/dz-zp_array.zip&fileinfo">
+	<d>The first real dhtml demo. Presented at The Gathering 2001 and got a 4th place in the alternative demo compo. Made as an sparetime p by Thomas, with good help from Christian and Peter. Pushed the limit of dhtml animations quite a step forward.</d>
+	<i>
+		<pe id="christian_knutsson" role="Programmer"/>
+		<pe id="thomas_evensen" role="Programmer"/>
+		<pe id="peter_grundstrom" role="Gfx"/>
+	</i>
+</p>
+
+<p id="3d2vml" display="3D2VML" category="schoolmodules" img="img/ps/3d2vml.jpg" url="http://www.norwegianbastard.net/nb_files/3d2vml.zip">
+	<d>Threedee parser and viewer for the web using perl and vml/dhtml. The worlds most useless utillity, but fun. Done as an alternative Industry project by Thomas. Got notice all the way from Microsoft.</d>
+	<i>
+		<pe id="thomas_evensen" role="Programmer"/>
+	</i>
+</p>
+
+<p id="sofa" display="SOFA" category="finalprojects" img="img/ps/sofa.jpg" url="http://www.norwegianbastard.net/nb_files/sofa/sofa.pdf">
+	<d>And easy, intuitive way of navigating your TV through the maze of choices. A final project aimed towards broadband content delivered through your TV.</d>
+	<i>
+		<pe id="thomas_evensen" role="Technical Designer"/>
+	</i>
+</p>
+
+<p id="omocha" display="Omocha" category="schoolmodules" img="img/ps/omocha.swf" url="">
+	<d>The fictional company Omocha was created as a part of the New Media Industry module in 2001. The business plan incorporated unique ideas to capture both offline and online activities, within the toy and entertainment industry. By selling collectable toy-characters with unique codes, giving the customer access to an online world, Omocha targeted a large and broad audience. A customer had to buy the complete series of toys to gain full access to all levels of the online world, which had a variety of fun activities.</d>
+	<i>
+		<pe id="christian_knutsson" role="Project Manager"/>
+		<pe id="linda_leow" role="Designer"/>
+		<pe id="alexander_samoceta" role="Designer"/>
+		<pe id="peter_grundstrom" role="Designer"/>
+	</i>
+</p>
+
+<p id="golgonooza" display="Golgonooza" category="schoolmodules" img="img/ps/golgonooza.swf" url="">
+	<d>A group of Hypernauts were assigned to create and develop a web campaign for a new British literary reviewing service on the Internet, called Golgonooza. The company was in the startup phase and was in need of a campaign to promote and entice people into joining their service. The deliverables were a web campaign and banners.</d>
+	<i>
+		<pe id="jens_elgeskog" role="Project Manager"/>
+		<pe id="daniel_kallbom" role="Designer"/>
+	</i>
+</p>
+
+<p id="skanska" display="Skanska" category="schoolmodules" img="img/ps/skanska.swf" url="http://www.crew7.net/ps/skanska/">
+	<d>An brand-improving campaign which aimed to promote actual living. Skanska wants to come across as a company building room for living. “The humane construction company”. The concept of this project was relationships. It’s a site that lets you communicate with other people on different levels of relationships through mail, postcards, messaging and chat-rooms.</d>
+	<i>
+		<pe id="louise_altmann" role="Project Manager"/>
+		<pe id="andreas_kallbom" role="Designer"/>
+		<pe id="andreas_gebauer" role="Concept/Design"/>
+		<pe id="jens_janson" role="Designer"/>
+		<pe id="viggo_wedborn" role="Project Manager"/>
+	</i>
+</p>
+
+<p id="ikea" display="IKEA" category="schoolmodules" img="img/ps/ikea.swf" url="http://www.norwegianbastard.net/nb_files/ikea/">
+	<d>A client project with the mission to create an online experience for organizing your home. It resulted in a interactive application with the base in a messy room. The users task was to select the furniture you wanted, and decorate and clean up their room.</d>
+	<i>
+		<pe id="christian_knutsson" role="Project Manager"/>
+		<pe id="robert_lenne" role="Programmer"/>
+		<pe id="niklas_persson" role="Programmer"/>
+		<pe id="thomas_evensen" role="Programmer"/>
+		<pe id="dag_henning_brandsater" role="Designer"/>
+		<pe id="herman_carlsson" role="Designer"/>
+	</i>
+</p>
+
+
+<p id="ipko" display="IPKO" category="schoolmodules" img="img/ps/ipko.swf" url="http://www.doyoi.net/i24/case_pages/11_ipko.htm">
+	<d>Students of Hyper Island produced a complete brand strategy, including logo and guidelines for the IPKO School of New Media in Prishtina, Kososvo. The strategy also included an analysis of IPKO’s subbrands and branches which became a new turning point for the organization. The result was a well communicated brand strategy for Hyper Islands “sister” in Kosovo.</d>
+	<i>
+		<pe id="daniel_wall" role="Strategy/Design"/>
+		<pe id="klas_thorsen" role="Strategy/Design"/>
+		<pe id="daniel_kvist" role="Strategy/Design"/>
+	</i>
+</p>
+
+
+<p id="purelabs" display="PureLabs" category="schoolmodules" img="img/ps/purelabs.swf" url="">
+	<d>In this school module, every team received one word. Our assignment was then to come up with three core values based on the word. These words in their turn, would be the base of a fictional company. The word for this team was Pure, the core values they derived were Knowledge, Natural and Light. Based on this, the team developed PureLabs. PureLabs produces genetically engineered plants and trees. The plants acts a complex purifying systems, with purpose to clean up the environment that they are introduced into.</d>
+	<i>
+		<pe id="seif_al_hasini" role="Designer"/>
+		<pe id="albert_isaksson" role="Designer"/>
+		<pe id="jonas_persson" role="Designer/Programmer"/>
+	</i>
+</p>
+
+
+
+<p id="personality" display="Personality" category="schoolrelated" img="img/ps/peality.swf" url="http://www.personality2002.net">
+	<d>Personality was an on- and offline exhibition which took place in the summer of 2002. It was an event that aimed to put focus on talented design students and to encourage non-commercial new media design. Digital media students from all over the world were invited to participate and do a collage/image of their perception of personality. 27 pieces of art was exhibited on the personality website and at Svensk Form in Stockholm.</d>
+	<i>
+		<pe id="albert_isaksson" role="Project Manager"/>
+		<pe id="louise_altmann" role="Organizer"/>
+		<pe id="viggo_wedborn" role="Organizer"/>
+		<pe id="daniel_kvist" role="Designer/Organizer"/>
+		<pe id="tina_ahl" role="Organizer"/>
+		<pe id="jens_janson" role="Organizer"/>
+		<pe id="peter_grundstrom" role="Organizer"/>
+		<pe id="seif_al_hasini" role="Organizer"/>
+		<pe id="erik_hedberg" role="Organizer"/>
+	</i>
+</p>
+
+
+<p id="kamratposten" display="Kamratposten" category="schoolrelated" img="img/ps/kamratposten.swf" url="http://www.kamratposten.nu">
+	<d>Kamratposten is a very well known Swedish magazine for children between the ages of 8-14 years old. Hyper Island got contacted by Kamratposten to create a redesign of their website. A team of six students took on the assignment. In the end, not only a redesign of their website was created, but also a total remaking of the content, a flash game and an extensive database content management system.</d>
+	<i>
+		<pe id="sofia_person" role="Project Manager"/>
+		<pe id="johan_sjostrand" role="Programmer"/>
+		<pe id="viggo_wedborn" role="Programmer"/>
+		<pe id="albert_isaksson" role="Designer"/>
+		<pe id="herman_carlsson" role="Designer"/>
+		<pe id="robert_lenne" role="Illustrator/Programmer"/>
+	</i>
+</p>
+
+<p id="hej" display="Hej" category="schoolrelated" img="img/ps/hej.swf" url="http://www.hyperisland.se/hej">
+	<d>Maria Nohlström, a Hyper Island employee, initiated this project aiming to increase the amount of students applying to Hyper Island and also to increase the general awareness of the school in the digital media industry. There had never been any major efforts needed for promotional material, but since the IT boom was over and due to a decline in applications to IT schools all over the country, the need arose. A group of six students from crew7 and a freelance copywriter produced this campaign which resulted in a broschure, posters, flyers and an extensive website. The campaign not only increased the amount of students applying but also won an award for best campaign.</d>
+	<i>
+		<pe id="rasmus_wikman" role="Project Manager"/>
+		<pe id="andreas_kallbom" role="Designer"/>
+		<pe id="daniel_kallbom" role="Designer"/>
+		<pe id="robert_lenne" role="Designer"/>
+		<pe id="christian_knutsson" role="Programmer"/>
+	</i>
+</p>
+
+<p id="sundaydesigners" display="Sunday Designers" category="schoolrelated" img="img/ps/sundaydesigners.swf" url="">
+	<d>A group of students started this project to increase their skills in branding and graphic design. A set goal was to continuously create pieces of finished work rather than just letting the pixels flow freely. The set-up was quite straight forward; every sunday one of the members created a short fictional brief and by following that brief the other members let out their creativity through different mediums.</d>
+	<i>
+		<pe id="robert_lenne" role="p Manager/Sunday Designer"/>
+		<pe id="andreas_kallbom" role="Sunday Designer"/>
+		<pe id="daniel_kallbom" role="Sunday Designer"/>
+		<pe id="linda_leow" role="Sunday Designer"/>
+		<pe id="jonatan_hedberg" role="Sunday Designer"/>
+		<pe id="herman_carlsson" role="Sunday Designer"/>
+	</i>
+</p>
+
+<p id="upagainstthewall" display="Up Against the Wall" category="schoolrelated" img="img/ps/upagainstthewall.swf" url="http://www.hyperisland.se/crew7/">
+	<d>Following the Portfolio-project a couple of student did this site to promote the personal portfolios of crew 7. It was released as a promo-campaign prior to crew 7’s internship-hunt. It’s up close and personal and we like it!</d>
+	<i>
+		<pe id="andreas_kallbom" role="Designer"/>
+		<pe id="daniel_kallbom" role="Designer"/>
+		<pe id="herman_carlsson" role="Designer"/>
+	</i>
+</p>
+
+
+<p id="crew7net" display="crew7.net" category="schoolrelated" img="img/ps/crew7net.swf" url="">
+<d>Every crew has its home! It's a tradition at Hyper Island that every crew does their own site to promote each and every student and their personal portfolios. This site was designed by the Källbom twins, coded by Thomas Evensen and Robert Lenne did the ”chalkboard” functionality which became extremely popular.</d>
+	<i>
+		<pe id="andreas_kallbom" role="Designer"/>
+		<pe id="daniel_kallbom" role="Designer"/>
+		<pe id="thomas_evensen" role="Programmer"/>
+		<pe id="robert_lenne" role="Programmer"/>
+	</i>
+</p>
+
+
+<p id="colors_and_emotions" display="Colors and Emotions" category="finalprojects" img="img/ps/colors_and_emotions.swf" url="http://www.formatura.org/emotionsandcolors">
+<d>This is the thesis project of the two graduate design students from Hyper Island, Jonatan Hedberg and Dag Henning Brandsaeter.
+
+How do people relate emotion with color? In our thesis we've interviewed several people, from different sides of the world. From the streets of Manhattan, to the small city of Karlskrona in the southern part of Sweden.
+
+Our goal with this project was to look into the emotional associations people have with colors.
+
+We decided to create a video around the subject emotions and colors, as well as try to figure out why people associate certain emotions to certain colors and how people generally associate colors in the western part of the world.</d>
+	<i>
+		<pe id="jonatan_hedberg" role="Designer"/>
+		<pe id="dag_henning_brandsater" role="Designer"/>
+	</i>
+</p>
+
+
+<p id="indien" display="Indien" category="finalprojects" img="img/ps/indien.swf" url="http://www.indiensthlm.com">
+<d>5 men and a little agency.
+
+It has now been three months since the "Agency" was left on their doorstep. It is time for her to turn into a real agency now, and now its founders thinks that they must grow up to gain respectability for their agency. A series of misunderstandings are handled with humorous insight.</d>
+	<i>
+		<pe id="viggo_wedborn" role="Project Manager"/>
+		<pe id="albert_isaksson" role="Designer"/>
+		<pe id="daniel_wall" role="Designer"/>
+		<pe id="erik_persson" role="Designer"/>
+		<pe id="henrik_augustin" role="Project Manager"/>
+	</i>
+</p>
+
+<p id="jusum" display="Jusum" category="finalprojects" img="img/ps/jusum.swf" url="http://www.jusum.com">
+<d>I'd like to present my final project. I made a community on a story i made up about a people called Jusum. Thay are from the planet Jusum but are lost in the gigantic universe and their only mission is to find their origin.
+
+Watch the first episode of the Jusum-series, play the Jusum game and gather up with your friends in the Jusum-chat room.
+
+My mission with Jusum is to add a little cuteness, joy and pixel to your everyday life.
+
+Enjoy!</d>
+	<i>
+		<pe id="linda_leow" role="Designer"/>
+	</i>
+</p>
+
+<p id="stamobileservice" display="STA Mobile Service" category="finalprojects" img="img/ps/stamobileservice.swf" url="">
+<d>STA Mobile Service is a concept that is brought to life by three students at Hyper Island. During the development of the concept we have cooperated closely with people both highly knowledgeable and actively working within the businesses of mobile techniques, marketing and concept development.
+
+The concept consists of three mobile services that are packaged as one and rented to nightclubs or companies at certain events.
+
+The main purpose of the service is to facilitate/promote communication, interaction and a feeling of relation between the users and indirectly also with the brand(s) that is exposed in direct connection with the service. To get more information about the service, please contact any one of us.</d>
+	<i>
+		<pe id="sofia_person" role="Project Member"/>
+		<pe id="joakim_borg" role="Project Member"/>
+		<pe id="jenny_lilja" role="Project Member"/>
+	</i>
+</p>
+
+<p id="patterns" display="Patterns" category="finalprojects" img="img/ps/patterns.swf" url="http://www.seepattern.com">
+<d>In this work I have worked with graphic patterns. The method have been to make a analys about "forms" and the reslut will end up as a graphic pattern. The analys have been to find relations and forms in the digital world and nature. On the p site you can see there how I have thought when I made my patterns. 
+
+The goal have been to find some of the secrets how you make patterns. And make good connections with people who works with graphic patterns and make them react on my work. </d>
+	<i>
+		<pe id="ulrica_nilsson" role="Designer"/>
+	</i>
+</p>
+
+<p id="viralmarketing" display="Viral Marketing" category="finalprojects" img="" url="">
+<d>This is our Final project. Our team consists of Karin Odebrant, Seif al'Hasani, Mattias Mattisson and Åsa Svensson.
+
+The aim of this project is to to explore the fields of Viral Marketing and Street Art, to learn their mecanisms, and to use that knowledge to design a marketing campaign. The focus of the campaign is to promote the soon-to-be graduates of Hyper Island for future employers, and also to heighten the awareness about Hyper Island among people outside of the media business. As part of this campaign, we choose to design peal posters inspired by the 'street' style. The posters conveyed the message that the students were ready to fly out of school, and into the real world.</d>
+	<i>
+		<pe id="karin_odebrant" role="Project Member"/>
+		<pe id="seif_al_hasini" role="Project Member"/>
+		<pe id="mattias_mattiasson" role="Project Member"/>
+		<pe id="asa_svensson" role="Project Member"/>
+	</i>
+</p>
+
+<p id="mjolk" display="Mjölk är livet" category="schoolmodules" img="" url="">
+<d>
+A small campaign promoting milk drinking. Done by Herman Carlsson and Daniel Källbom in the Advanced HTML module.
+</d>
+	<i>
+		<pe id="herman_carlsson" role="Designer / Programmer"/>
+		<pe id="daniel_kallbom" role="Designer / Programmer"/>
+	</i>
+</p>
+
+<p id="ericsson" display="Ericsson LP" category="schoolmodules" img="" url="">
+<d>
+Brief: 
+The mobile company Ericsson has a problem to reach all the employs that are concerned of their new LPD, Learning Product Development. Your mission is to help Eriksson so that their new version of the LPD reaches all the parties concerned.
+</d>
+	<i>
+		<pe id="lars_tengen" role="Project Member"/>
+		<pe id="mattias_mattiasson" role="Project Member"/>
+		<pe id="daniel_wall" role="Project Member"/>
+		<pe id="tobias_martinsson" role="Project Member"/>
+		<pe id="jonatan_hedberg" role="Project Member"/>
+	</i>
+</p>
+
+<p id="navarch" display="NavArch" category="schoolrelated" img="" url="http://www.navarch.org/">
+<d>
+Naval Architecture in the four cities of Karlskrona, Medway/Chatham, Rochefort and Suomenlinna/Sveaborg, Helsinki The NAVARCH project was initiated by RENDOC (Redevelopment and regeneration of the former naval dockyards), which is a network organisation of European Naval Dockyard Towns. The aim of the network is both to share comparable past experiences and partake in the future development of these naval cities
+</d>
+	<i>
+		<pe id="par_tangeberg" role="Project Manager"/>
+		<pe id="jens_janson" role="Designer"/>
+		<pe id="jonas_persson" role="Programmer"/>
+		<pe id="thomas_evensen" role="Consultant"/>
+	</i>
+</p>
+
+<p id="kosmos" display="Kosmos" category="schoolmodules" img="" url="">
+<d>
+A relationship visualizer and end of an era. 
+
+Born in the think-tank of Indien, and created by the norwegian bastard. The longest running project in the history of crew7.
+
+But we did it at last.
+
+Also involved: Christian, Niklas and the Källbom twins.
+</d>
+	<i>
+		<pe id="thomas_evensen" role="Everything"/>
+	</i>
+</p>
+
+<p id="crew" display="The Crew" category="schoolrelated" img="img/ps/crew7.jpg" url="">
+<d>
+We are crew7 of Hyper Island, and darn proud of it! 
+
+44 people inside a prison... you just gotta create some relations. Some good and some bad.. even a couple neutral ones. 
+
+Now, we're spread around the globe. If you're going our way; please stop by and say hi!
+</d>
+	<i>
+	</i>
+</p>
+
+
+
